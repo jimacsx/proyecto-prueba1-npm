@@ -1,0 +1,23 @@
+{
+  "name": "proyecto-prueba1-npm",
+  "version": "1.0.0",
+  "description": "Proyecto sencillo para aprender nodejs y subirlo a NPM.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimacsx/proyecto-prueba1-npm.git"
+  },
+  "keywords": [
+    "operaciones",
+    "matematicas"
+  ],
+  "author": "Maximino Peralta Jiménez <maximino.peralta5791@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimacsx/proyecto-prueba1-npm/issues"
+  },
+  "homepage": "https://github.com/jimacsx/proyecto-prueba1-npm#readme"
+}
